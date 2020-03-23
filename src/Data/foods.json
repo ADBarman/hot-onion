@@ -110,7 +110,7 @@
     {   
         "id" : 13,
         "name" : "Salmon with Grapefruit and Lentil Salad",
-        "images" : ["https://i.ibb.co/ypjjFL3/dinner6.png" , "https://i.ibb.co/9vs6XXS/dinner2.png"],
+        "images" : ["https://i.ibb.co/hczzFpq/dinner6.png" , "https://i.ibb.co/wLMVHHj/dinner2.png"],
         "type" : "Dinner",
         "price": 9.99,
         "shortDescription" : "How we dream about our future",
@@ -119,7 +119,7 @@
     {   
         "id" : 14,
         "name" : "Lemony Salmon Piccata",
-        "images" : ["https://i.ibb.co/9vs6XXS/dinner2.png" , "https://i.ibb.co/NV0YRhn/dinner5.png"],
+        "images" : ["https://i.ibb.co/wLMVHHj/dinner2.png" , "https://i.ibb.co/gj0gY1F/dinner5.png"],
         "type" : "Dinner",
         "price": 10.99,
         "shortDescription" : "How we dream about our future",
@@ -128,7 +128,7 @@
     {   
         "id" : 15,
         "name" : "Pork Tenderloin with Quinoa Pilaf",
-        "images" : ["https://i.ibb.co/NV0YRhn/dinner5.png" , "https://i.ibb.co/s2YJGF7/dinner4.png"],
+        "images" : ["https://i.ibb.co/gj0gY1F/dinner5.png" , "https://i.ibb.co/wRmrXKt/dinner4.png"],
         "type" : "Dinner",
         "price": 12.99,
         "shortDescription" : "How we dream about our future",
@@ -137,7 +137,7 @@
     {   
         "id" : 16,
         "name" : "French Fries with Cheese",
-        "images" : ["https://i.ibb.co/s2YJGF7/dinner4.png" , "https://i.ibb.co/3pY6DW7/dinner3.png"],
+        "images" : ["https://i.ibb.co/wRmrXKt/dinner4.png" , "https://i.ibb.co/rxf8CMm/dinner3.png"],
         "type" : "Dinner",
         "price": 8.99,
         "shortDescription" : "How we dream about our future",
@@ -146,7 +146,7 @@
     {   
         "id" : 17,
         "name" : "Garlic Butter Baked Salmon",
-        "images" : ["https://i.ibb.co/3pY6DW7/dinner3.png" , "https://i.ibb.co/j5qD01h/dinner1.png"],
+        "images" : ["https://i.ibb.co/rxf8CMm/dinner3.png" , "https://i.ibb.co/6ZGF9fY/dinner1.png"],
         "type" : "Dinner",
         "price": 6.99,
         "shortDescription" : "How we dream about our future",
@@ -155,7 +155,7 @@
     {   
         "id" : 18,
         "name" : "Baked Chicken",
-        "images" : ["https://i.ibb.co/j5qD01h/dinner1.png" , "https://i.ibb.co/ypjjFL3/dinner6.png"],
+        "images" : ["https://i.ibb.co/6ZGF9fY/dinner1.png" , "https://i.ibb.co/hczzFpq/dinner6.png"],
         "type" : "Dinner",
         "price": 9.99,
         "shortDescription" : "How we dream about our future",
